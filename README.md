@@ -15,11 +15,7 @@ pytorch 1.1.0
 
 **Usage**
 
-You need to run the file `datasets/preprocess.py` first to preprocess the data. 
-
-For example: `cd datasets; python preprocess.py --dataset=sample`
-
-Then you can run the file `pytorch_code/main.py` to train the model.
+You can run the file `pytorch_code/main.py` to train the model.
 
 For example: `cd pytorch_code; python main.py --dataset=sample`
 
