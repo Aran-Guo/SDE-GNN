@@ -2,7 +2,7 @@
 **Sequential Dependency Enhanced Graph Neural
 Network for Session-based Recommendation**
 
-Wei Guo, Shoujin Wang, Wenpeng Lu∗
+Wei Guo, Shoujin Wang, Wenpeng Lu∗, Hao Wu
 ,Qian Zhang and Zhufeng Sh
 
 The paper has been accepted by DSAA. 
