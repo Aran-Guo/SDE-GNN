@@ -3,7 +3,7 @@
 Network for Session-based Recommendation**
 
 Wei Guo, Shoujin Wang, Wenpeng Lu∗
-,Qian Zhang, Zhufeng Sh
+,Qian Zhang and Zhufeng Sh
 
 The paper has been accepted by DSAA. 
 
